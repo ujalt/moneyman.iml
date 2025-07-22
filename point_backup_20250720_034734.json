@@ -1,0 +1,350 @@
+{
+  "point_values": {
+    "170": 10,
+    "180": 10,
+    "195": 10,
+    "200": 10,
+    "205": 10,
+    "210": 20,
+    "215": 50,
+    "rb": 50,
+    "mord": 100,
+    "hrung": 100,
+    "necro": 100,
+    "aprot": 100,
+    "prot": 400,
+    "gele": 600,
+    "bt": 800,
+    "dhio": 1000,
+    "voa": 1000
+  },
+  "individual_scores": {
+    "anarch": [
+      {
+        "item": "Admin set to 5710",
+        "points": 5710
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "rb",
+        "points": 50
+      }
+    ],
+    "chuck": [
+      {
+        "item": "Admin set to 24710",
+        "points": 24710
+      }
+    ],
+    "nue": [
+      {
+        "item": "Admin set to 24110",
+        "points": 24110
+      }
+    ],
+    "batt": [
+      {
+        "item": "Admin set to 21350",
+        "points": 21350
+      }
+    ],
+    "aki": [
+      {
+        "item": "Admin set to 20560",
+        "points": 20560
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      }
+    ],
+    "agent": [
+      {
+        "item": "Admin set to 20840",
+        "points": 20840
+      },
+      {
+        "item": "180",
+        "points": 10
+      },
+      {
+        "item": "215",
+        "points": 50
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "rb",
+        "points": 50
+      }
+    ],
+    "mui": [
+      {
+        "item": "Admin set to 19400",
+        "points": 19400
+      },
+      {
+        "item": "215",
+        "points": 50
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      }
+    ],
+    "sierra": [
+      {
+        "item": "Admin set to 10",
+        "points": 10
+      }
+    ],
+    "looney": [
+      {
+        "item": "Admin set to 15190",
+        "points": 15190
+      }
+    ],
+    "cora": [
+      {
+        "item": "Admin set to 1300",
+        "points": 1300
+      }
+    ],
+    "misa": [
+      {
+        "item": "Admin set to 3150",
+        "points": 3150
+      }
+    ],
+    "mevve": [
+      {
+        "item": "Admin set to 120",
+        "points": 120
+      }
+    ],
+    "helmm": [
+      {
+        "item": "Admin set to 330",
+        "points": 330
+      }
+    ],
+    "rahis": [
+      {
+        "item": "Admin set to 11740",
+        "points": 11740
+      },
+      {
+        "item": "210",
+        "points": 20
+      },
+      {
+        "item": "180",
+        "points": 10
+      },
+      {
+        "item": "200",
+        "points": 10
+      },
+      {
+        "item": "215",
+        "points": 50
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "rb",
+        "points": 50
+      }
+    ],
+    "tanke": [
+      {
+        "item": "Admin set to 16320",
+        "points": 16320
+      }
+    ],
+    "chef": [
+      {
+        "item": "Admin set to 690",
+        "points": 690
+      },
+      {
+        "item": "215",
+        "points": 50
+      }
+    ],
+    "gravity": [
+      {
+        "item": "Admin set to 900",
+        "points": 900
+      }
+    ],
+    "draw": [
+      {
+        "item": "Admin set to 1520",
+        "points": 1520
+      }
+    ],
+    "sup": [
+      {
+        "item": "Admin set to 5800",
+        "points": 5800
+      }
+    ],
+    "angelov": [
+      {
+        "item": "Admin set to 6160",
+        "points": 6160
+      }
+    ],
+    "jabba": [
+      {
+        "item": "Admin set to 6260",
+        "points": 6260
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      }
+    ],
+    "anzac": [
+      {
+        "item": "Admin set to 6290",
+        "points": 6290
+      }
+    ],
+    "greenpower": [
+      {
+        "item": "Admin set to 7880",
+        "points": 7880
+      }
+    ],
+    "chraa": [
+      {
+        "item": "Admin set to 10390",
+        "points": 10390
+      },
+      {
+        "item": "180",
+        "points": 10
+      },
+      {
+        "item": "215",
+        "points": 50
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      }
+    ],
+    "emi": [
+      {
+        "item": "Admin set to 11230",
+        "points": 11230
+      },
+      {
+        "item": "215",
+        "points": 50
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      }
+    ],
+    "boo": [
+      {
+        "item": "Admin set to 15200",
+        "points": 15200
+      },
+      {
+        "item": "voa",
+        "points": 1000
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "rb",
+        "points": 50
+      },
+      {
+        "item": "rb",
+        "points": 50
+      }
+    ]
+  },
+  "user_registrations": {
+    "653672333172539425": "anarch",
+    "434910497926676489": "agent",
+    "1084085635909959712": "boo",
+    "396624599259021332": "anzac",
+    "703112100805083179": "mui",
+    "500148351392808960": "chraa",
+    "425929180811755520": "helmm",
+    "629614956500877312": "rahis",
+    "1015349947094290486": "emi",
+    "299142203354120192": "jabba",
+    "339805995943460885": "gravity",
+    "930198127829479434": "cora",
+    "1325539945900671066": "mevve",
+    "815445784560402432": "looney",
+    "480210175886884867": "zsz",
+    "557462337091797002": "aki",
+    "876296094294888519": "nue",
+    "192248472533991424": "chef",
+    "920464669393698847": "greenpower",
+    "169772639173214208": "chuck",
+    "815440108408930354": "tanke",
+    "789348943921152051": "sierra",
+    "1364719804300132452": "misa",
+    "691496841359130675": "draw",
+    "948743236464279552": "sup",
+    "1349886736624254986": "angelov",
+    "1072633346640846928": "batt"
+  },
+  "lifetime_points": {
+    "anarch": 1170,
+    "tanke": 20,
+    "rahis": 1240,
+    "agent": 1210,
+    "chraa": 1060,
+    "chef": 50,
+    "emi": 1050,
+    "mui": 1050,
+    "jabba": 1000,
+    "aki": 1000,
+    "boo": 1150
+  },
+  "last_updated": "2025-07-20T03:47:34.177838"
+}
