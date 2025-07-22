@@ -2,7 +2,9 @@ import discord
 from discord.ext import commands
 import json
 import os
+from config import BOT_TOKEN
 from datetime import datetime
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 
 # Point Assignment System with 215 Attendance Tracking
